@@ -94,10 +94,9 @@ The design is **modular**, with a `pong_game` top-level module coordinating all 
 ## 🚀 How to Synthesize & Run
 
 1. Open project in **Quartus Prime**.
-2. Assign FPGA **pin constraints** (see table above).
-3. Compile the project.
-4. Connect the board to a **VGA monitor** and **PS/2 keyboard**.
-5. Program the board via **JTAG**.
-6. Play!
+2. Compile the project.
+3. Connect the board to a **VGA monitor** and **PS/2 keyboard**.
+4. Program the board via **JTAG**.
+5. Play!
 
 ---
