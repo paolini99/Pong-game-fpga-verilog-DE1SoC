@@ -83,7 +83,7 @@ The design is **modular**, with a `pong_game` top-level module coordinating all 
 
 ## 🧪 Requirements
 
-- **FPGA Board**: DE1-SoC or similar with VGA, PS/2, and 7-segment support.
+- **FPGA Board**: DE1-SoC, PS/2, and 7-segment support.
 - **Monitor**: VGA-compatible.
 - **Keyboard**: PS/2 (not USB).
 - **Quartus Prime**: for synthesis and programming.
