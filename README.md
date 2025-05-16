@@ -91,24 +91,6 @@ The design is **modular**, with a `pong_game` top-level module coordinating all 
 
 ---
 
-## 🔌 Pin Mapping (Example for DE1-SoC)
-
-| Signal         | Pin Name (DE1-SoC) |
-|----------------|--------------------|
-| PS2_CLK        | `PIN_Y1`           |
-| PS2_DAT        | `PIN_A2`           |
-| VGA_HSYNC      | `PIN_B12`          |
-| VGA_VSYNC      | `PIN_C12`          |
-| VGA_R[3:0]     | `PIN_[...]`        |
-| VGA_G[3:0]     | `PIN_[...]`        |
-| VGA_B[3:0]     | `PIN_[...]`        |
-| BTN Inputs     | `KEY[0..3]`        |
-| 7-Segment      | `HEX0` to `HEX7`   |
-
-_Note: Actual pins depend on board configuration._
-
----
-
 ## 🚀 How to Synthesize & Run
 
 1. Open project in **Quartus Prime**.
