@@ -3,7 +3,7 @@ This project implements the classic **Pong game** using **pure digital logic** o
 
 > ⚙️ No software or processors are used – the entire system is built from digital components and finite state machines.
 
-![Screenshot](.pong.jpg)
+![Screenshot](pong.jpg)
 
 ---
 
